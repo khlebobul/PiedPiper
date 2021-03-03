@@ -10,4 +10,4 @@
   <img src="https://github.com/khlebobul/PiedPiper/blob/main/md%20img/img%205.png" width="850"/>
  </p>
   
-  Thanks ([ITC](https://vk.com/itc.digital))
+  Thanks ([ITC](https://vk.com/itc.digital))!
