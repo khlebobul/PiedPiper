@@ -1,6 +1,6 @@
 # PiedPiper
 
-## Homework from one of the best courses ([https://stepik.org/course/38218/info](https://stepik.org/course/38218/info))
+## Homework from one of the best courses HTML и CSS ([https://stepik.org/course/38218/info](https://stepik.org/course/38218/info))
 
  <p alight=center">
   <img src="https://github.com/khlebobul/PiedPiper/blob/main/md%20img/img%201.png" width="850"/>
